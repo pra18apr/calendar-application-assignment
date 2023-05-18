@@ -8,6 +8,10 @@ In this assignment we are required to create a simple calendar application that 
 
 The acceptance criteria was: WHEN I open the planner, I scroll down, I view the timeblocks for that day, I click into a timeblock, I click the save button for that timeblock, I refresh the page, THEN the saved events persist.
 
+## Visit my website through the below link:
+
+https://pra18apr.github.io/calendar-application-assignment/
+
 ## JS examples
 
 This function allows me to save to local storage whatever is written in the rows by clicking the button:
